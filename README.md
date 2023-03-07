@@ -104,7 +104,7 @@ Complete the following tasks:
 After analyzing all geotagged tweets sent in 2020 using the process of Mapping, Reducing, and Visualizing, I created four differnet plots to represent certain relationships. The bar charts show how often a specific hashtag is used in tweets in 2020 sorted by the top ten countries/languages. 
 
 
-This plot represents the number of tweets with the hashtag #코로나바이러스 by language. As you can see the most tweets using this hanhtag are found in Korean and English. This hashtag is in the language Korean (meaning Coronavirus) and thus it makes sense that it is most commonly found in Korean tweets.
+This plot represents the number of tweets with the hashtag #코로나바이러스 by language. As you can see the most tweets using this hashtag are found in Korean and English. This hashtag is in the language Korean (meaning Coronavirus) and thus it makes sense that it is most commonly found in Korean tweets.
 
 ![reduced lang#코로나바이러스](https://user-images.githubusercontent.com/72474086/223543279-a33f79e6-d969-4a15-8cfe-4e4d708655e6.png)
 
@@ -114,7 +114,7 @@ This plot represents the number of tweets with the hashtag #coronavirus by langu
 ![reduced lang#coronavirus](https://user-images.githubusercontent.com/72474086/223544491-321813a9-5bde-4b99-9f36-fe6af300e267.png)
 
 
-This plot represents the number of tweets with the hashtag #코로나바이러스 by country. #코로나바이러스 is found significantly more in Korea than any other country. There are very few tweets using this hashtag outisde of Korea.
+This plot represents the number of tweets with the hashtag #코로나바이러스 by country. #코로나바이러스 is found significantly more in Korea than any other country. There are very few tweets using this hashtag outside of Korea.
 
 ![reduced country#코로나바이러스](https://user-images.githubusercontent.com/72474086/223545156-854ace8f-bc22-4ff4-9689-4847cc607b67.png)
 
